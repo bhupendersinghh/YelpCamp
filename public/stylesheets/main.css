@@ -1,0 +1,15 @@
+.thumbnail img {
+    width: 100%;
+}
+
+.card img {
+    width: 100%;
+}
+
+.new {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
